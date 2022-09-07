@@ -17,7 +17,7 @@ class HomePAge extends StatelessWidget {
         // *******String intwrpulation ($days)********//
         child: Text("Welcome to $days days flutter cource by $name"),
       )),
-      drawer: Drawer(["Nitn,tiwari"]),
+      drawer: Drawer(),
     );
   }
 }
